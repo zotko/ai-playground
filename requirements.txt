@@ -6,3 +6,4 @@ langchain-postgres
 pre-commit
 beautifulsoup4
 pypdf
+ipykernel
