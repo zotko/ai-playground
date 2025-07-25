@@ -9,3 +9,5 @@ pypdf
 ipykernel
 pinecone
 weaviate-client
+chromadb
+
