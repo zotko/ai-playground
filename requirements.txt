@@ -12,3 +12,4 @@ weaviate-client
 chromadb
 pymilvus
 pymilvus[model]
+qdrant-client
