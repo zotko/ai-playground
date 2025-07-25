@@ -10,4 +10,5 @@ ipykernel
 pinecone
 weaviate-client
 chromadb
-
+pymilvus
+pymilvus[model]
