@@ -3,6 +3,7 @@ langchain-google-genai
 langchain-community
 langchain-text-splitters
 langchain-postgres
+langgraph >= 0.2.28
 pre-commit
 beautifulsoup4
 pypdf
