@@ -16,3 +16,5 @@ pymilvus[model]
 qdrant-client
 langchain-tavily
 langgraph-checkpoint-sqlite
+fastapi[standard]
+httpie
